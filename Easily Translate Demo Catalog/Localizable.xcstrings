@@ -1,7 +1,39 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-
+    "hello" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello World"
+          }
+        }
+      }
+    },
+    "life" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Life is beautiful"
+          }
+        }
+      }
+    },
+    "work" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Work hard play hard"
+          }
+        }
+      }
+    }
   },
   "version" : "1.0"
 }
